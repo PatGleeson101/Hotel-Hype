@@ -20,3 +20,5 @@ This is how you should begin after running the game for the first time. After st
 * Hire employees for your amenities
 * Buy advertising
 * View current rooms, employees, advertisements, amenities and guests, as well as their stats.
+
+Good luck and may your hotel endeavours be ever profitable!
